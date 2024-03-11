@@ -6,6 +6,8 @@ from pyodide import create_proxy
 import datetime as dt
 import asyncio
 
+# test
+
 lastTime = 6
 canvas = document.getElementById('Canvas')
 canvas.width = 500
