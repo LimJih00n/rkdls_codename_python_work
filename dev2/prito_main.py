@@ -80,7 +80,7 @@ def UserInitCode():
     state = 0
 #$user_init_start
     # Enter your code here
-    warrior.set_direction("R")
+    warrior.set_direction("D")
     warrior.set_velocity(5,5)
 #$user_init_out
 def UserLoopCode():
